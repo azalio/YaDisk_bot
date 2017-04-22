@@ -1,0 +1,19 @@
+[telegram]
+# telegram token
+token = ...
+
+
+[mongo]
+# DB credentials
+host = localhost
+port = 27017
+db = YaDisk
+collection = t_users
+
+[yadisk]
+# ID app
+app_id = ...
+
+[yamaps]
+# key for yandex.map
+key = ...
